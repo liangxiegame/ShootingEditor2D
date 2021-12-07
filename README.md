@@ -12,6 +12,10 @@
 * 镜像地址：https://gitee.com/liangxiegame/ShootingEditor2D
 * QFramework 地址：https://github.com/liangxiegame/QFramework
 
+教程:
+
+* 如何写出来的？《框架搭建 决定版》第二季 地址：https://learn.u3d.cn/tutorial/framework_design
+
 
 
 当前版本 v0.0.6
